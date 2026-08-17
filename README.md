@@ -160,7 +160,7 @@ The project produces a rich set of visualizations:
 
 | 📘 Full Report | 📊 Presentation Slides |
 |:---:|:---:|
-| [**Download Report (PDF)**](./docs/report.pdf) | [**Download Slides (PDF)**](./docs/presentation.pdf) |
+| [**Download Report (PDF)**](./report.pdf) | [**Download Slides (PDF)**](./presentation.pdf) |
 
 </div>
 
